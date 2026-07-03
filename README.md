@@ -10,7 +10,7 @@ I'm naturally driven by curiosity and analytical thinking. I enjoy understanding
 
 ## About Me
 
-I believe that good cybersecurity professionals do more than operate tools—they understand systems.
+I believe that good cybersecurity professionals do more than operate tools, they understand systems.
 
 I enjoy exploring how people, processes, and technology interact, how risks emerge, and how security can be designed as part of an organization's overall strategy rather than treated as an afterthought.
 
