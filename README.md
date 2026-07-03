@@ -2,7 +2,7 @@
 
 I'm transitioning into Cybersecurity after working in international business and English education.
 
-What attracted me to cybersecurity wasn't simply technology—it was the opportunity to understand how complex systems work, how security decisions influence organizations, and how thoughtful design can reduce risk before incidents happen.
+What attracted me to cybersecurity wasn't simply technology, it was the opportunity to understand how complex systems work, how security decisions influence organizations, and how thoughtful design can reduce risk before incidents happen.
 
 I'm naturally driven by curiosity and analytical thinking. I enjoy understanding the reasoning behind technologies, connecting ideas across different disciplines, and continuously expanding my knowledge through hands-on practice.
 
